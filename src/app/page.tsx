@@ -27,13 +27,13 @@ export default function Home() {
           <PageIllustration />
           <Hero />
           <Stats />
-          {/* <Carousel /> */}
+          <Carousel />
           <Tabs />
           <Process />
-          {/* <PricingTables /> */}
-          {/* <Testimonials /> */}
-          {/* <Features /> */}
-          {/* <Cta /> */}
+          <PricingTables />
+          <Testimonials />
+          <Features />
+          <Cta />
         </div>
 
       </main>
